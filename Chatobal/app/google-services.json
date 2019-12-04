@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "416008524230",
+    "firebase_url": "https://chatobalv1.firebaseio.com",
+    "project_id": "chatobalv1",
+    "storage_bucket": "chatobalv1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416008524230:android:826356e0dcb432fe",
+        "android_client_info": {
+          "package_name": "com.addu.chatobal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416008524230-guigim0g9vu8fpr6g478c5dk02d3kp98.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.addu.chatobal",
+            "certificate_hash": "50fb6bb68765eb74d1bc69892000934644767563"
+          }
+        },
+        {
+          "client_id": "416008524230-g8igqqqunlb55nc8sdfsp1hs0vbmi7gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNbeKahLDual8JhylT0HbfsljMHADbUo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416008524230-g8igqqqunlb55nc8sdfsp1hs0vbmi7gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
